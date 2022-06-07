@@ -16,3 +16,11 @@ FR_PASS=mysecretpassword
 ```
 
 Freedom documentation [here](https://docs.freedomrobotics.ai/reference/login)
+
+## Logout
+
+Logout action destroy a couple of `mc_token` and `mc_secret`. For the script to log you out it is required the secret and the token to revoke and the user email.
+
+Once 
+
+Freedom documentation [here](https://docs.freedomrobotics.ai/reference/logout)
